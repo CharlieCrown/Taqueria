@@ -16,5 +16,3 @@ Descripción:
 <img src="./Img/captu2.PNG" alt="Menu" height="500">
 <img src="./Img/captu3.PNG" alt="Ubicacion" height="500">
 <img src="./Img/captu4.PNG" alt="Formulario" height="500">
-
-[Volver al menú &ldca;](../README.md "Regresar a página principal")
